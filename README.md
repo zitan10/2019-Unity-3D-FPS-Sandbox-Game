@@ -24,7 +24,7 @@ Link to Youtube video of game: https://youtu.be/vs0OHOFWpmY
     Hold shift to fly faster
     Press E to dismount Dragon
     
-Assets used (From Asset Store):
+Assets used from Asset Store:
 Note: Assets used from store only for visual purposes. (I.E. House models, rock models, etc):
 
     AllSkyFree
