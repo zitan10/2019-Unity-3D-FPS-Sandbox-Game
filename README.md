@@ -1,6 +1,8 @@
 # 2019 - Unity-3D-FPS-Sandbox-Game
 Personal Project (WIP) - 3D Sandbox shooter game made with Unity and C#
 
+Next on To Do List: Add Canvas to display player health
+
 ![](images/preview2.png)
 ![](images/previewGif1.gif)
 ![](images/previewGif2.gif)
